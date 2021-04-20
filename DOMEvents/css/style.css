@@ -1,0 +1,26 @@
+body {
+    margin: 15px;
+    background-color: #efefef;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:root {
+    --button: #064646;
+    --title: #0b7070;
+    --title-size: 1.1rem;
+}
+
+.title {
+    color: var(--title);
+    font-size: var(--title-size);
+}
+
+button {
+    color: var(--button);
+    font-weight:  bold;
+    font-size: 16px;
+    display: inline-block;
+    padding: 4px 8px;
+    width: 120px;
+}
+
