@@ -1,4 +1,4 @@
-
+"use strict";
 
 const connect = (selector, event, callback) => {
     const element = document.querySelector(selector);
