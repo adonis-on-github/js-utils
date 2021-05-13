@@ -1,0 +1,17 @@
+/*
+.target {
+    position: fixed;
+    top: 10px;
+    left: 100px;
+    width: 90%;
+
+    color: blue;
+    z-index: 10;
+}
+
+.intersect {
+    position: static;
+    color: red;
+    height: 150px;
+}
+*/
